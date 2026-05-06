@@ -14,6 +14,7 @@
 - [FEXCore-2604-4db2a98d7](./FEXCore-2604-4db2a98d7)
 - [Turnip-26.2.0-b41cd59](./Turnip-26.2.0-b41cd59)
 - [Vk3dk-3.0b-arm64ec-3b10bd7a](./Vk3dk-3.0b-arm64ec-3b10bd7a)
+- [Weekly-2026-05-01](./Weekly-2026-05-01)
 - [Wowbox64-0.4.2](./Wowbox64-0.4.2)
 - [app-debug](./app-debug)
 - [drivers-v1.tar](./drivers-v1.tar)
