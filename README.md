@@ -83,14 +83,18 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
-1. [2.7.1-gplasync-a9bdb298](https://github.com/PremiumHiFi/downloader/tree/main/downloads/2.7.1-gplasync-a9bdb298)
+1. [2.7.1-arm64ec-a9bdb298](https://github.com/PremiumHiFi/downloader/tree/main/downloads/2.7.1-arm64ec-a9bdb298)
 
-2. [Box64-0.4.2](https://github.com/PremiumHiFi/downloader/tree/main/downloads/Box64-0.4.2)
+2. [2.7.1-gplasync-a9bdb298](https://github.com/PremiumHiFi/downloader/tree/main/downloads/2.7.1-gplasync-a9bdb298)
 
-3. [Box64-0.4.3](https://github.com/PremiumHiFi/downloader/tree/main/downloads/Box64-0.4.3)
+3. [Box64-0.4.2](https://github.com/PremiumHiFi/downloader/tree/main/downloads/Box64-0.4.2)
 
-4. [app-debug](https://github.com/PremiumHiFi/downloader/tree/main/downloads/app-debug)
+4. [Box64-0.4.3](https://github.com/PremiumHiFi/downloader/tree/main/downloads/Box64-0.4.3)
+
+5. [app-debug](https://github.com/PremiumHiFi/downloader/tree/main/downloads/app-debug)
 
 ---
