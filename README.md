@@ -93,6 +93,8 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
 1. [2.7.1-arm64ec-a9bdb298](https://github.com/PremiumHiFi/downloader/tree/main/downloads/2.7.1-arm64ec-a9bdb298)
@@ -105,12 +107,14 @@ a
 
 5. [Dxvk-2.4.1-pre-reg](https://github.com/PremiumHiFi/downloader/tree/main/downloads/Dxvk-2.4.1-pre-reg)
 
-6. [Dxvk-2.7.1-gplasync](https://github.com/PremiumHiFi/downloader/tree/main/downloads/Dxvk-2.7.1-gplasync)
+6. [Dxvk-2.7.1-arm64ec-gplasync](https://github.com/PremiumHiFi/downloader/tree/main/downloads/Dxvk-2.7.1-arm64ec-gplasync)
 
-7. [FEXCore-2604-4db2a98d7](https://github.com/PremiumHiFi/downloader/tree/main/downloads/FEXCore-2604-4db2a98d7)
+7. [Dxvk-2.7.1-gplasync](https://github.com/PremiumHiFi/downloader/tree/main/downloads/Dxvk-2.7.1-gplasync)
 
-8. [Vk3dk-3.0b-arm64ec-3b10bd7a](https://github.com/PremiumHiFi/downloader/tree/main/downloads/Vk3dk-3.0b-arm64ec-3b10bd7a)
+8. [FEXCore-2604-4db2a98d7](https://github.com/PremiumHiFi/downloader/tree/main/downloads/FEXCore-2604-4db2a98d7)
 
-9. [app-debug](https://github.com/PremiumHiFi/downloader/tree/main/downloads/app-debug)
+9. [Vk3dk-3.0b-arm64ec-3b10bd7a](https://github.com/PremiumHiFi/downloader/tree/main/downloads/Vk3dk-3.0b-arm64ec-3b10bd7a)
+
+10. [app-debug](https://github.com/PremiumHiFi/downloader/tree/main/downloads/app-debug)
 
 ---
