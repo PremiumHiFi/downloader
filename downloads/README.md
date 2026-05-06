@@ -5,6 +5,7 @@
 - [Box64-0.4.2](./Box64-0.4.2)
 - [Box64-0.4.2_star](./Box64-0.4.2_star)
 - [Box64-0.4.3](./Box64-0.4.3)
+- [Box64-0.4.3-dfaabd018-Native](./Box64-0.4.3-dfaabd018-Native)
 - [Box64-0.4.3_nova](./Box64-0.4.3_nova)
 - [Dxvk-2.4.1-pre-reg](./Dxvk-2.4.1-pre-reg)
 - [Dxvk-2.4.1-pre-reg-arm64ec-gplasync](./Dxvk-2.4.1-pre-reg-arm64ec-gplasync)
