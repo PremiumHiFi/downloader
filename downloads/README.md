@@ -16,6 +16,7 @@
 - [Vk3dk-3.0b-arm64ec-3b10bd7a](./Vk3dk-3.0b-arm64ec-3b10bd7a)
 - [Wowbox64-0.4.2](./Wowbox64-0.4.2)
 - [app-debug](./app-debug)
+- [drivers-v1.tar](./drivers-v1.tar)
 
 ---
 
