@@ -79,10 +79,14 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
-1. [Box64-0.4.3](https://github.com/PremiumHiFi/downloader/tree/main/downloads/Box64-0.4.3)
+1. [Box64-0.4.2](https://github.com/PremiumHiFi/downloader/tree/main/downloads/Box64-0.4.2)
 
-2. [app-debug](https://github.com/PremiumHiFi/downloader/tree/main/downloads/app-debug)
+2. [Box64-0.4.3](https://github.com/PremiumHiFi/downloader/tree/main/downloads/Box64-0.4.3)
+
+3. [app-debug](https://github.com/PremiumHiFi/downloader/tree/main/downloads/app-debug)
 
 ---
