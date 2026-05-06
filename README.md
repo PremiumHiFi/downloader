@@ -111,6 +111,8 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
 1. [2.7.1-arm64ec-a9bdb298](https://github.com/PremiumHiFi/downloader/tree/main/downloads/2.7.1-arm64ec-a9bdb298)
@@ -148,5 +150,7 @@ a
 17. [app-debug](https://github.com/PremiumHiFi/downloader/tree/main/downloads/app-debug)
 
 18. [drivers-v1.tar](https://github.com/PremiumHiFi/downloader/tree/main/downloads/drivers-v1.tar)
+
+19. [wine-mono-11.1.0-x86](https://github.com/PremiumHiFi/downloader/tree/main/downloads/wine-mono-11.1.0-x86)
 
 ---
