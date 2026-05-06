@@ -85,6 +85,8 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
 1. [2.7.1-arm64ec-a9bdb298](https://github.com/PremiumHiFi/downloader/tree/main/downloads/2.7.1-arm64ec-a9bdb298)
@@ -95,6 +97,8 @@ a
 
 4. [Box64-0.4.3](https://github.com/PremiumHiFi/downloader/tree/main/downloads/Box64-0.4.3)
 
-5. [app-debug](https://github.com/PremiumHiFi/downloader/tree/main/downloads/app-debug)
+5. [Vk3dk-3.0b-arm64ec-3b10bd7a](https://github.com/PremiumHiFi/downloader/tree/main/downloads/Vk3dk-3.0b-arm64ec-3b10bd7a)
+
+6. [app-debug](https://github.com/PremiumHiFi/downloader/tree/main/downloads/app-debug)
 
 ---
