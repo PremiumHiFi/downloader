@@ -3,6 +3,7 @@
 - [2.7.1-arm64ec-a9bdb298](./2.7.1-arm64ec-a9bdb298)
 - [2.7.1-gplasync-a9bdb298](./2.7.1-gplasync-a9bdb298)
 - [Box64-0.4.2](./Box64-0.4.2)
+- [Box64-0.4.2_star](./Box64-0.4.2_star)
 - [Box64-0.4.3](./Box64-0.4.3)
 - [Box64-0.4.3_nova](./Box64-0.4.3_nova)
 - [Dxvk-2.4.1-pre-reg](./Dxvk-2.4.1-pre-reg)
