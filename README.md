@@ -101,6 +101,8 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
 1. [2.7.1-arm64ec-a9bdb298](https://github.com/PremiumHiFi/downloader/tree/main/downloads/2.7.1-arm64ec-a9bdb298)
@@ -127,6 +129,8 @@ a
 
 12. [Vk3dk-3.0b-arm64ec-3b10bd7a](https://github.com/PremiumHiFi/downloader/tree/main/downloads/Vk3dk-3.0b-arm64ec-3b10bd7a)
 
-13. [app-debug](https://github.com/PremiumHiFi/downloader/tree/main/downloads/app-debug)
+13. [Wowbox64-0.4.2](https://github.com/PremiumHiFi/downloader/tree/main/downloads/Wowbox64-0.4.2)
+
+14. [app-debug](https://github.com/PremiumHiFi/downloader/tree/main/downloads/app-debug)
 
 ---
