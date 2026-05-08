@@ -1,0 +1,6 @@
+https://fonts.gstatic.com/s/i/productlogos/chrome_store/v7/192px.svg
+https://ssl.gstatic.com/chrome/webstore/images/icon_144px.png
+https://ssl.gstatic.com/chrome/webstore/images/icon_48px.png
+https://ssl.gstatic.com/chrome/webstore/images/icon_96px.png
+https://ssl.gstatic.com/gb/images/bar/al-icon.png
+https://www.gstatic.com/images/branding/productlogos/chrome/v7/192px.svg
