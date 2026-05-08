@@ -113,44 +113,10 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
-1. [2.7.1-arm64ec-a9bdb298](https://github.com/PremiumHiFi/downloader/tree/main/downloads/2.7.1-arm64ec-a9bdb298)
-
-2. [2.7.1-gplasync-a9bdb298](https://github.com/PremiumHiFi/downloader/tree/main/downloads/2.7.1-gplasync-a9bdb298)
-
-3. [Box64-0.4.2](https://github.com/PremiumHiFi/downloader/tree/main/downloads/Box64-0.4.2)
-
-4. [Box64-0.4.2_star](https://github.com/PremiumHiFi/downloader/tree/main/downloads/Box64-0.4.2_star)
-
-5. [Box64-0.4.3](https://github.com/PremiumHiFi/downloader/tree/main/downloads/Box64-0.4.3)
-
-6. [Box64-0.4.3-dfaabd018-Native](https://github.com/PremiumHiFi/downloader/tree/main/downloads/Box64-0.4.3-dfaabd018-Native)
-
-7. [Box64-0.4.3_nova](https://github.com/PremiumHiFi/downloader/tree/main/downloads/Box64-0.4.3_nova)
-
-8. [Dxvk-2.4.1-pre-reg](https://github.com/PremiumHiFi/downloader/tree/main/downloads/Dxvk-2.4.1-pre-reg)
-
-9. [Dxvk-2.4.1-pre-reg-arm64ec-gplasync](https://github.com/PremiumHiFi/downloader/tree/main/downloads/Dxvk-2.4.1-pre-reg-arm64ec-gplasync)
-
-10. [Dxvk-2.7.1-arm64ec-gplasync](https://github.com/PremiumHiFi/downloader/tree/main/downloads/Dxvk-2.7.1-arm64ec-gplasync)
-
-11. [Dxvk-2.7.1-gplasync](https://github.com/PremiumHiFi/downloader/tree/main/downloads/Dxvk-2.7.1-gplasync)
-
-12. [FEXCore-2604-4db2a98d7](https://github.com/PremiumHiFi/downloader/tree/main/downloads/FEXCore-2604-4db2a98d7)
-
-13. [Turnip-26.2.0-b41cd59](https://github.com/PremiumHiFi/downloader/tree/main/downloads/Turnip-26.2.0-b41cd59)
-
-14. [Vk3dk-3.0b-arm64ec-3b10bd7a](https://github.com/PremiumHiFi/downloader/tree/main/downloads/Vk3dk-3.0b-arm64ec-3b10bd7a)
-
-15. [Weekly-2026-05-01](https://github.com/PremiumHiFi/downloader/tree/main/downloads/Weekly-2026-05-01)
-
-16. [Wowbox64-0.4.2](https://github.com/PremiumHiFi/downloader/tree/main/downloads/Wowbox64-0.4.2)
-
-17. [app-debug](https://github.com/PremiumHiFi/downloader/tree/main/downloads/app-debug)
-
-18. [drivers-v1.tar](https://github.com/PremiumHiFi/downloader/tree/main/downloads/drivers-v1.tar)
-
-19. [wine-mono-11.1.0-x86](https://github.com/PremiumHiFi/downloader/tree/main/downloads/wine-mono-11.1.0-x86)
+1. [zenith-browser-signed](https://github.com/PremiumHiFi/downloader/tree/main/downloads/zenith-browser-signed)
 
 ---
