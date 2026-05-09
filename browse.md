@@ -9,3 +9,4 @@
 - [https___archive_org_download_ps2japanredump5 (20260509_002154)](pages/archive.org/https___archive_org_download_ps2japanredump5/20260509_002154/index.md) — 1 media files
 - [https___archive_org_download_PS2_part2_Japan_CHD_Arquivista (20260509_002516)](pages/archive.org/https___archive_org_download_PS2_part2_Japan_CHD_Arquivista/20260509_002516/index.md) — 1 media files
 - [https___archive_org_download_ps2chd2_202105 (20260509_002904)](pages/archive.org/https___archive_org_download_ps2chd2_202105/20260509_002904/index.md) — 1 media files
+- [https___romspure_cc_roms_sony_playstation_2_j_league_winning_eleven_2008_club_championship_ (20260509_131127)](pages/romspure.cc/https___romspure_cc_roms_sony_playstation_2_j_league_winning_eleven_2008_club_championship_/20260509_131127/index.md) — 16 media files
