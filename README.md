@@ -125,10 +125,14 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
 1. [Winning Eleven 10 - Fifa World Cup Germany 2006 Edition](https://github.com/PremiumHiFi/downloader/tree/main/downloads/Winning Eleven 10 - Fifa World Cup Germany 2006 Edition)
 
 2. [mhrv-rs-android-arm64-v8a-v1.6.3](https://github.com/PremiumHiFi/downloader/tree/main/downloads/mhrv-rs-android-arm64-v8a-v1.6.3)
+
+3. [sdk36-arm64ec-2.7.1-1](https://github.com/PremiumHiFi/downloader/tree/main/downloads/sdk36-arm64ec-2.7.1-1)
 
 ---
