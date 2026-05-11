@@ -9,6 +9,7 @@
 - [Winning Eleven 10 - Fifa World Cup Germany 2006 Edition_theta](./Winning%20Eleven%2010%20-%20Fifa%20World%20Cup%20Germany%202006%20Edition_theta)
 - [Winning Eleven 9 - Special Edition](./Winning%20Eleven%209%20-%20Special%20Edition)
 - [World Soccer Winning Eleven 10 %28English Patched%29](./World%20Soccer%20Winning%20Eleven%2010%20%28English%20Patched%29)
+- [bionic_ref4ik_lite](./bionic_ref4ik_lite)
 - [dxvk-gplasync-2.4.1-1-pre-reg](./dxvk-gplasync-2.4.1-1-pre-reg)
 - [dxvk-gplasync-2.7.1-1](./dxvk-gplasync-2.7.1-1)
 - [sdk36-arm64ec-2.7.1-1](./sdk36-arm64ec-2.7.1-1)
